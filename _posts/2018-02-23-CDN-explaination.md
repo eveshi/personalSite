@@ -12,7 +12,7 @@ tag: 基础知识
 
 下图就是一个典型的 CDN 场景。
 
-![图解cdn]({{site.url}}/assets/img/2018-02-23-CDN.png)
+![图解cdn]({{site.url}}/assets/img/2018-02-23-CDN.PNG)
 
 按照图例，在开发者将内容发布之后（图中例子是发布到 heroku.com 上），用户访问网站数据会遵循以下步骤：
 1. 向 DNS Server 发送请求，获取 Edge Server 的 IP 地址。
