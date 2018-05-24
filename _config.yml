@@ -18,13 +18,13 @@ email: qianyiwork@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   一些关于码的想法
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eveshi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eveshi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: eve471
 github:  eveshi
 
 filter: 'tag'
 
-favicon: https://eveshi.github.io/public/favicon.ico
+favicon: {{site.url}}/assets/favicon.ico
 
 # Build settings
 markdown: kramdown

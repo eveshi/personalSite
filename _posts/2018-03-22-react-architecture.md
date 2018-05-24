@@ -8,7 +8,7 @@ tag: React
 
 在做一个 single-page-react-project 的过程中，我将项目结构进行了如下改动：
 
-![react-architecture]({{site.url}}/public/images/2018-03-22-react-architecture.png)
+![react-architecture]({{site.url}}/assets/img/2018-03-22-react-architecture.png)
 
 也就说是把原本放到 client 文件夹中的内容全部提了出来。
 
